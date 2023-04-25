@@ -16,7 +16,7 @@ There are two options to insert code
 
 ### Code Block
 ```
-I am at Nanyang Polytechic
+I am at Nanyang Polytechnic
 Block S
 Room 540
 ```
